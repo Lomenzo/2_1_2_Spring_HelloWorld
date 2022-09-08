@@ -19,5 +19,4 @@ public class AppConfig {
         cat.setMessage("npogauTe pbI6oB !");
         return cat;
     }
-
 }
